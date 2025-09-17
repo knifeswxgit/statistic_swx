@@ -43,3 +43,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Spicetify](https://spicetify.app/) - For the amazing Spotify customization platform
 - [Spicetify Creator](https://github.com/spicetify/spicetify-creator) - For the development tools
+- Kyrie, moderator spicetify - For the help! <3
