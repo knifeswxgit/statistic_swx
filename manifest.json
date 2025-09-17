@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Track Stats",
+    "description": "Advanced track statistics plugin that displays play count, listening time, and detailed analytics with interactive charts and rankings.",
+    "preview": "screenshot.png",
+    "main": "dist/timer_by_knifeswx.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "knifeswx",
+        "url": "https://t.me/knifeswx"
+      }
+    ],
+    "tags": ["statistics", "analytics", "tracking", "charts", "playcount"]
+  }
+]
