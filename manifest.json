@@ -16,6 +16,5 @@
     "preview": "screenshot.png",
     "main": "dist/timer_by_knifeswx.js",
     "readme": "README.md",
-    "branch": "statistic_swx"
   },
 ]
