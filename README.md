@@ -12,7 +12,7 @@ Advanced track statistics plugin for Spotify that displays comprehensive listeni
 3. Click Install
 
 ### Method 2: Manual Installation
-1. Download the latest release from [Releases](https://github.com/knifeswx/track-stats/releases)
+1. Download the latest release from [GitHub](https://github.com/knifeswxgit/statistic_swx)
 2. Copy `timer_by_knifeswx.js` to your Spicetify extensions folder:
    - Windows: `appdata\local\spicetify\Extensions\`
    - macOS: `~/spicetify_data/Extensions/`
